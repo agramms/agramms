@@ -1,72 +1,70 @@
-<!-- Header -->
-<h1 align="center">Alessandro Vieira Grammelsbacher — Ale</h1>
-<p align="center">
-  Tech Lead • Ruby on Rails • Payments/Fintech • AWS • Loves shipping reliable systems
-</p>
+<!-- Title -->
+<h1 align="center">Alessandro Vieira Grammelsbacher (Ale)</h1>
+<p align="center">Tech Lead • Ruby on Rails • Payments/Fintech • AWS • I ship reliable systems</p>
 
 <p align="center">
-  <!-- Badges (feel free to remove/add) -->
-  <img src="https://img.shields.io/badge/Language-Ruby-red.svg" />
-  <img src="https://img.shields.io/badge/Framework-Rails-red.svg" />
-  <img src="https://img.shields.io/badge/Jobs-Backend%20%7C%20Tech%20Lead-blue.svg" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational.svg" />
-  <img src="https://img.shields.io/badge/Message%20Queue-IBM%20MQ-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/DB-MySQL%20%7C%20Redis%20%7C%20DynamoDB-yellow.svg" />
+  <img src="https://img.shields.io/badge/Ruby-Rails-red" />
+  <img src="https://img.shields.io/badge/Serverless-RubyOnJets-informational" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-brightgreen" />
+  <img src="https://img.shields.io/badge/Queues-IBM%20MQ%20%7C%20SQS%20%7C%20RabbitMQ-blue" />
+  <img src="https://img.shields.io/badge/DB-MySQL%20%7C%20Postgres%20%7C%20Redis%20%7C%20DynamoDB-yellow" />
+  <img src="https://img.shields.io/badge/CI-CD%20with%20Travis%20%2B%20GitHub%20Actions-lightgrey" />
 </p>
 
 ---
 
 ## 👋 Hi
-I build **reliable backend systems**. My day-to-day sweet spot is **Ruby on Rails** + queues + data stores, with **AWS** under the hood.  
-I’ve also shipped production code in **Java, C# and C++** — I pick the tool that fits.
+I’m a backend-first engineer and Tech Lead. **Ruby on Rails** is home, but I’ve shipped prod code in **Java, C# and C++** too. I pick the tool that fits, keep prod boring, and obsess over reliability.
 
 ---
 
-## 🧱 Languages I actually used in production
+## ⏱️ Languages — years of professional use (approx.)
+- **Ruby / Ruby on Rails** — **8+ years** (2017 → now). Prior to that, used Ruby for study/personal projects.
+- **Java** — **~5 years** (2009 → 2014) across web & enterprise stacks.
+- **C#** — **~3–4 years** (intermittent, 2010 → 2014) in enterprise/governance modules.
+- **C++** — **~3 years** (2009 → 2012) for IVR/URA and high-throughput SMS/GPS tooling.
+- **SQL (Postgres/MySQL/Oracle)** — **10+ years** as the primary data layer in most backends.
 
-### 🟥 Ruby / Ruby on Rails
-- Rails apps with **Sidekiq**, **Redis**, **MySQL**, **RBS/RSpec/Minitest**.
-- **Serverless Ruby** with **RubyOnJets** (AWS Lambda, API Gateway, DynamoDB, KMS).
-- Built things like: PCI vaults, real-time payments, antifraud decisioning layers.
-
-### ☕ Java
-- Web stacks: **Spring Boot**, **PrimeFaces**, **GWT → AngularJS** migrations.
-- Used for enterprise portals, content sites, and service integrations.
-
-### 🟦 C#
-- Internal enterprise modules and workflow tooling.
-- Governance/compliance/reporting automations.
-
-### 🟪 C++
-- **IVR/URA** for call centers (telecom flows).
-- High-throughput SMS tooling and GPS-tracking pieces when low-level control mattered.
+> Durations are conservative estimates; happy to talk through details.
 
 ---
 
-## 🧰 Stacks I’m comfortable with
-- **Datastores:** MySQL, Redis, DynamoDB  
-- **Messaging:** IBM MQ, queues, workers, idempotency, retries  
-- **Cloud:** AWS (Lambda/Jets, API Gateway, KMS, S3, CloudWatch, Elastic Beanstalk)  
-- **Testing/Quality:** RSpec/Minitest, CI/CD, feature flags, canary releases
+## 🔴 Ruby (my core)
+- **Rails, Sidekiq, RSpec, Minitest, RuboCop (incl. custom cops), RubyOnJets (serverless)**
+- Production habits: idempotent APIs, background jobs, backpressure, graceful degradation.
+
+## ☕ Java (fluent)
+- **Spring, Spring Boot, Hibernate, JPA, PrimeFaces, Play Framework**
+- Earlier career work on portals/services; still comfortable when needed.
+
+## 🟦 C#
+- Enterprise modules, governance/reporting automation.
+
+## 🟪 C++
+- **IVR/URA** for call centers, SMS broadcast, GPS tracking components.
 
 ---
 
-## 🧪 Things I care about
-- Keeping prod **boring**: observability, backpressure, graceful degradation.  
-- **APIs that age well**: clear contracts, pagination, idempotency keys, versioning.  
-- **Compliance without pain**: PCI mindset in code & infra choices.
+## 📨 Queues & async
+**IBM MQ**, **AWS SQS/SNS**, **RabbitMQ** — retries, DLQs, ordering, consumer health.
+
+## 🗄️ Databases & storage
+- **SQL:** **PostgreSQL**, **MySQL**, **Oracle**
+- **NoSQL:** **DynamoDB**, **Cassandra**, **Elasticsearch**
+- **Cache:** **Redis**
+
+## ☁️ Cloud & infra
+**AWS** (Lambda, API Gateway, KMS, S3, CloudWatch, CloudFormation, Elastic Beanstalk),  
+**Docker, Kubernetes, Nginx, Cloudflare**.
+
+## 🚦 CI/CD & quality
+**Travis CI**, **GitHub Actions** — test & deploy pipelines, canaries, feature flags.
+
+## 🧠 AI-assisted workflow
+Use **ChatGPT/Claude** for code review, test generation, doc scaffolding; exploring **RAG** patterns for internal docs.
 
 ---
 
-## 📫 Contact
-- LinkedIn: add me (search **“Alessandro Vieira Grammelsbacher iugu”**)  
-- Email: (add your preferred contact)
-
-<!-- Optional small gallery / icons -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby-On%20Rails-red" />
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Systems-lightgrey" />
-  <img src="https://img.shields.io/badge/C%23-Enterprise-blueviolet" />
-  <img src="https://img.shields.io/badge/AWS-Serverless-brightgreen" />
-</p>
+## 📫 Ping me
+- LinkedIn: search **“Alessandro Vieira Grammelsbacher iugu”**
+- Email: alessandro.grammelsbacher@gmail.com

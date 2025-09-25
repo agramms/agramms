@@ -66,5 +66,5 @@ Use **ChatGPT/Claude** for code review, test generation, doc scaffolding; explor
 ---
 
 ## 📫 Ping me
-- LinkedIn: search **“Alessandro Vieira Grammelsbacher iugu”**
+- LinkedIn: [@agramms](https://www.linkedin.com/in/agramms)
 - Email: alessandro.grammelsbacher@gmail.com
